@@ -6,7 +6,7 @@
 	versionCode = "10">
 
 	<preference name="phonegap-version" value="cli-5.2.0" />
-	<name>SatDeslizamiento 2</name>
+	<name>satmqtt</name>
 	<description>
 		Sistema de alerta temprana para deslizamientos prueba 2
 	</description>
